@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianzzzz" alt="cristianzzzz" /></a> </p>
 
-- 🔭 I’m currently working on **Do+, Mesa v2, Babel**
+- 🔭 I’m currently working on **Do+, OKam, Babel**
 
 - 🌱 I’m currently learning **Machine learning, Django**
 
